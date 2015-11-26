@@ -1,0 +1,21 @@
+{
+  "name": "ncproxy",
+  "private": true,
+  "version": "0.0.1",
+  "description": "proxy reverse ",
+  "keywords": [],
+  "dependencies": {
+    "redbird": "^0.4.10"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noisecall/ncproxy.git"
+  },
+  "author": "Noisecall",
+  "license": ""
+}
